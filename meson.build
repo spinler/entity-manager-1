@@ -120,6 +120,7 @@ configs = [
     'genesis3_psu.json',
     'genesis3_baseboard.json',
     'genesis3_chassis.json',
+    'generic_nvme_drive.json',
     'gospower_g1136-1300wna_psu.json',
     'greatlakes.json',
     'greatlakes_nic_mellanox.json',
